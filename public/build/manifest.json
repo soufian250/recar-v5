@@ -1,0 +1,20 @@
+{
+  "build/app.css": "/build/app.css",
+  "build/app.js": "/build/app.js",
+  "build/runtime.js": "/build/runtime.js",
+  "build/vendors-node_modules_symfony_stimulus-bridge_dist_index_js-node_modules_bootstrap_dist_js_boo-5fa032.css": "/build/vendors-node_modules_symfony_stimulus-bridge_dist_index_js-node_modules_bootstrap_dist_js_boo-5fa032.css",
+  "build/vendors-node_modules_symfony_stimulus-bridge_dist_index_js-node_modules_bootstrap_dist_js_boo-5fa032.js": "/build/vendors-node_modules_symfony_stimulus-bridge_dist_index_js-node_modules_bootstrap_dist_js_boo-5fa032.js",
+  "build/images/boxicons.svg": "/build/images/boxicons.9e2b21b1.svg",
+  "build/fonts/boxicons.eot": "/build/fonts/boxicons.65a8ce52.eot",
+  "build/fonts/boxicons.woff": "/build/fonts/boxicons.d12afc36.woff",
+  "build/fonts/boxicons.ttf": "/build/fonts/boxicons.db9ddb18.ttf",
+  "build/fonts/bootstrap-icons.woff?": "/build/fonts/bootstrap-icons.e559bf06.woff",
+  "build/fonts/boxicons.woff2": "/build/fonts/boxicons.df635aaf.woff2",
+  "build/fonts/bootstrap-icons.woff2?": "/build/fonts/bootstrap-icons.ea98e12d.woff2",
+  "build/images/sort_both.png": "/build/images/sort_both.8b117faa.png",
+  "build/images/sort_asc.png": "/build/images/sort_asc.4bba5919.png",
+  "build/images/sort_desc.png": "/build/images/sort_desc.c4196d32.png",
+  "build/images/sort_asc_disabled.png": "/build/images/sort_asc_disabled.27ac5d1b.png",
+  "build/images/sort_desc_disabled.png": "/build/images/sort_desc_disabled.07c018ae.png",
+  "build/../../build/zcapp.js": "/build/../../build/zcapp.js"
+}
